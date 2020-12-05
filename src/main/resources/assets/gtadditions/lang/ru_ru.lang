@@ -469,7 +469,7 @@ gtadditions.machine.wiremill.luv.name=Элитный волочильный ст
 gtadditions.machine.wiremill.zpm.name=Элитный волочильный стан III
 gtadditions.machine.wiremill.uv.name=Элитный волочильный стан IV
 
-gtadditions.machine.assembly_line.name=Сборочный конвеер
+gtadditions.machine.assembly_line.name=Сборочный конвейер
 
 gtadditions.machine.steam_mixer.name=Смеситель на паровой тяге
 
@@ -511,7 +511,7 @@ gtadditions.machine.fusion_reactor.luv.name=Компьютер термояде�
 gtadditions.machine.fusion_reactor.zpm.name=Компьютер термоядерного реактора версия 2
 gtadditions.machine.fusion_reactor.uv.name=Компьютер термоядерного реактора версия 3
 
-tile.ga_multiblock_casing.tungstensteel_gearbox_casing.name=Корпус сборочного конвеера
+tile.ga_multiblock_casing.tungstensteel_gearbox_casing.name=Корпус сборочного конвейера
 tile.ga_transparent_casing.reinforced_glass.name=Армированное стекло
 tile.ga_multiblock_casing.reactor_casing.name=Реакторный корпус
 
@@ -520,7 +520,7 @@ metaitem.tool.bending_cylinder_small.name=Малый %s гнущий цилин�
 
 recipemap.cluster_mill.name=Прокатывание
 recipemap.circuit_assembler.name=Сборка микросхем
-recipemap.assembly_line.name=Сборочный конвеер
+recipemap.assembly_line.name=Сборочный конвейер
 recipemap.naquadah_reactor.name=Топливо для наквадах реактора
 recipemap.replicator.name=Репликация
 recipemap.mass_fab.name=Фабрикация Материи
@@ -733,7 +733,7 @@ item.meat.dustTiny=Крошечная кучка молотого фарша
 item.meat.dustSmall=Малая куча молотого фарша
 item.meat.dust=Молотое фарш
 
-gregtech.multiblock.assembly_line.description=Сборочный конвеер - большой мультиблок состоящий от 5 до 16 "слоев". В теории, это большая сборочная машина для создания более продвинутых деталей для ремесла.
+gregtech.multiblock.assembly_line.description=Сборочный конвейер - большой мультиблок состоящий от 5 до 16 "слоев". В теории, это большая сборочная машина для создания более продвинутых деталей для ремесла.
 gregtech.multiblock.processing_array.description=Массив обработки объединяет до 16 одноблочных машин в одном мультиблоке.
 gregtech.multiblock.fusion_reactor_mk1.description=Термоядерный реактор - большая многоблочная структура использующаяся для термоядерного синтеза двух элементов в один. Версия 1 термоядерного реакторма может использовать LuV, ZPM или UV энерго-люки. За каждый люк внутренний буффер увеличиваеться на 100т.
 gregtech.multiblock.fusion_reactor_mk2.description=Термоядерный реактор - большая многоблочная структура использующаяся для термоядерного синтеза двух элементов в один. Версия 1 термоядерного реакторма может использовать ZPM или UV энерго-люки. За каждый люк внутренний буффер увеличиваеться на 200т.
@@ -2239,20 +2239,20 @@ tile.ga_pump_casing.pump_uiv.name=Блок электрической помпы
 tile.ga_pump_casing.pump_umv.name=Блок электрической помпы (UMV)
 tile.ga_pump_casing.pump_uxv.name=Блок электрической помпы (UXV)
 tile.ga_pump_casing.pump_max.name=Блок электрической помпы (MAX)
-tile.ga_conveyor_casing.conveyor_lv.name=Конвеерный блок (LV)
-tile.ga_conveyor_casing.conveyor_mv.name=Конвеерный блок (MV)
-tile.ga_conveyor_casing.conveyor_hv.name=Конвеерный блок (HV)
-tile.ga_conveyor_casing.conveyor_ev.name=Конвеерный блок (EV)
-tile.ga_conveyor_casing.conveyor_iv.name=Конвеерный блок (IV)
-tile.ga_conveyor_casing.conveyor_luv.name=Конвеерный блок (LUV)
-tile.ga_conveyor_casing.conveyor_zpm.name=Конвеерный блок (ZPM)
-tile.ga_conveyor_casing.conveyor_uv.name=Конвеерный блок (UV)
-tile.ga_conveyor_casing.conveyor_uhv.name=Конвеерный блок (UHV)
-tile.ga_conveyor_casing.conveyor_uev.name=Конвеерный блок (UEV)
-tile.ga_conveyor_casing.conveyor_uiv.name=Конвеерный блок (UIV)
-tile.ga_conveyor_casing.conveyor_umv.name=Конвеерный блок (UMV)
-tile.ga_conveyor_casing.conveyor_uxv.name=Конвеерный блок (UXV)
-tile.ga_conveyor_casing.conveyor_max.name=Конвеерный блок (MAX)
+tile.ga_conveyor_casing.conveyor_lv.name=Конвейерный блок (LV)
+tile.ga_conveyor_casing.conveyor_mv.name=Конвейерный блок (MV)
+tile.ga_conveyor_casing.conveyor_hv.name=Конвейерный блок (HV)
+tile.ga_conveyor_casing.conveyor_ev.name=Конвейерный блок (EV)
+tile.ga_conveyor_casing.conveyor_iv.name=Конвейерный блок (IV)
+tile.ga_conveyor_casing.conveyor_luv.name=Конвеейрный блок (LUV)
+tile.ga_conveyor_casing.conveyor_zpm.name=Конвейерный блок (ZPM)
+tile.ga_conveyor_casing.conveyor_uv.name=Конвейерный блок (UV)
+tile.ga_conveyor_casing.conveyor_uhv.name=Конвейерный блок (UHV)
+tile.ga_conveyor_casing.conveyor_uev.name=Конвейерный блок (UEV)
+tile.ga_conveyor_casing.conveyor_uiv.name=Конвейерный блок (UIV)
+tile.ga_conveyor_casing.conveyor_umv.name=Конвейерный блок (UMV)
+tile.ga_conveyor_casing.conveyor_uxv.name=Конвейерный блок (UXV)
+tile.ga_conveyor_casing.conveyor_max.name=Конвейерный блок (MAX)
 tile.ga_robot_arm_casing.robot_arm_lv.name=Блок роботизированного манипулятора (LV)
 tile.ga_robot_arm_casing.robot_arm_mv.name=Блок роботизированного манипулятора (MV)
 tile.ga_robot_arm_casing.robot_arm_hv.name=Блок роботизированного манипулятора (HV)
